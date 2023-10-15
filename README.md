@@ -1,1 +1,5 @@
-# Projeto-TCC-NPROD
+Projeto de TCC - Estudo de Caso: Análise da Implementação das Melhores Práticas de DevOps nas Empresas de Desenvolvimento de Software
+
+Este estudo de caso tem como objetivo evidenciar, por meio de uma abordagem prática, a notável eficiência e agilidade que uma aplicação pode alcançar quando desenvolvida com a aplicação das ferramentas e metodologias de DevOps.
+
+No âmbito deste projeto de estudo de caso, foram criados dois ambientes distintos: um ambiente de produção e outro de homologação, ambos configurados no Azure DevOps. A implementação desses ambientes contou com o uso de diversas ferramentas, incluindo Docker, Azure Pipeline, Azure Repos (sistema de controle de versão), a capacidade de orquestração de contêineres oferecida pelo Azure Kubernetes. A aplicação desenvolvida e implantada nesses ambientes é uma aplicação web simplificada, criada exclusivamente com a finalidade de demonstrar o funcionamento integrado de todo o ecossistema. Ressalta-se que o foco principal deste estudo de caso é proporcionar uma clara demonstração das capacidades e eficácia das ferramentas e práticas de DevOps na nuvem, bem como exemplificar a aplicação das metodologias DevOps.
